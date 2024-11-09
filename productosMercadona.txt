@@ -1,0 +1,952 @@
+Nombre: Leche semidesnatada Hacendado
+Precio: 4.98 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b9613b9354f8b0705f998b2201ffe443.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Hacendado
+Precio: 5.52 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4b1fd692f8032ec9e1ff419f27a856a4.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada sin lactosa Hacendado
+Precio: 5.46 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1e00d72ab30caeab3f87809327e16391.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Hacendado
+Precio: 4.74 EUR
+Imagen: https://prod-mercadona.imgix.net/images/40b9fc5096d638d3e3fe2c5d4f8eb1d8.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada sin lactosa Hacendado
+Precio: 5.28 EUR
+Imagen: https://prod-mercadona.imgix.net/images/12336306164696db995d0355c3615040.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Hacendado
+Precio: 0.83 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b869141b9d9c9810546bb229d73ecb77.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Hacendado
+Precio: 0.92 EUR
+Imagen: https://prod-mercadona.imgix.net/images/eec7e3c9694398905eb7cade2c0bedbc.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Hacendado
+Precio: 1.63 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6e6f87557b2929cfffcc08ef72385328.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Hacendado
+Precio: 8.64 EUR
+Imagen: https://prod-mercadona.imgix.net/images/63a605ad3dce0ccd476721e3c807de58.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada sin lactosa Hacendado
+Precio: 0.91 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4c383f76349faee5a3c079c48d3dcb44.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Hacendado
+Precio: 9.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1376cba6e19d62c58df709a78236ff7d.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Hacendado
+Precio: 0.79 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d1df90671044f2bfe464b666ef0cb142.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera sin lactosa Hacendado
+Precio: 5.94 EUR
+Imagen: https://prod-mercadona.imgix.net/images/16227e6ffd9278e3d1ff55fa8c86734b.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada calcio Hacendado
+Precio: 5.88 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b039c847158c6726b1db24fe8091a8ed.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada sin lactosa Hacendado
+Precio: 0.88 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c8961220049de314a30e9f194e743e26.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera fresca Hacendado
+Precio: 1.07 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d985ec1b5f0e21f2fe5e32857e5200af.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Hacendado
+Precio: 1.56 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f16c6d550a0a4236222a7dfdea3017ca.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche evaporada Hacendado
+Precio: 1.63 EUR
+Imagen: https://prod-mercadona.imgix.net/images/33f37a73c984afed77963c2538b113e5.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada calcio Hacendado
+Precio: 5.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/761614ac020458712e57841305df431a.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada sin lactosa Hacendado
+Precio: 9.36 EUR
+Imagen: https://prod-mercadona.imgix.net/images/66135dc8e02a5802349eb9f5677234fa.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche condensada Hacendado
+Precio: 3.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b6c7821e45659190d4af302c40508d34.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche +Proteínas desnatada Hacendado
+Precio: 7.68 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d470211a0604c39ba3ff5f5d6ee734ed.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada fresca Hacendado
+Precio: 1.01 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7f509c7db41e5763626998702f5cb755.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche condensada Hacendado
+Precio: 2.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e946b63ac639e0e856989870b08807cf.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada sin lactosa Hacendado
+Precio: 1.72 EUR
+Imagen: https://prod-mercadona.imgix.net/images/86beaab2a15ac2d9840049b9cdbd6535.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Hacendado
+Precio: 8.46 EUR
+Imagen: https://prod-mercadona.imgix.net/images/feea730248e52f9e560e8bc22567c789.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Hacendado
+Precio: 1.44 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ff7a708dfba6860d1c625d4cf8316719.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera sin lactosa Hacendado
+Precio: 0.99 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c5ee33b1e6eb483f3b999d770d91a987.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche +Proteínas desnatada Hacendado
+Precio: 1.28 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c4558a06013b7b9c1afb6d188f1692f2.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Hacendado
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/311607eee22b5fb2d7fb38c0def01c3e.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera calcio Hacendado
+Precio: 6.72 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a7b1f66bae180deb11c96c2869bfe597.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada sin lactosa Hacendado
+Precio: 1.56 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1a554dd5650ee4d5d26bd65b574c3bb4.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada calcio Hacendado
+Precio: 0.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/780eeb2b41d3910960e6a42b3d410107.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Hacendado
+Precio: 1.41 EUR
+Imagen: https://prod-mercadona.imgix.net/images/005b40bb5a93e80cc77926ad84ae22e0.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche condensada Hacendado
+Precio: 2.10 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1032cdb6c1a2d2555a933680e4ed418a.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada calcio Hacendado
+Precio: 0.98 EUR
+Imagen: https://prod-mercadona.imgix.net/images/837e6dc6649b9b85135a84e53a858742.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche condensada desnatada Hacendado
+Precio: 2.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/461642fceb3d080f2cd3e6f67fea3b6d.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada de cabra Hacendado
+Precio: 1.84 EUR
+Imagen: https://prod-mercadona.imgix.net/images/075120af65e67734433e8ae6d7c6d139.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada de cabra Hacendado
+Precio: 11.04 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6a5ddd230d14c1c5c9831651cbb25bf6.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera calcio Hacendado
+Precio: 1.12 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a0cc0348f04a04cf55aebca1ddb51f93.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche tropical Hacendado sin azúcares añadidos
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d16ee3e3218f67d0268b848f7ff51da6.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Mediterráneo Hacendado sin azúcares añadidos
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/64078fb5c7ae05a03cee837f3f3b1173.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Caribe Hacendado sin azúcares añadidos
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ba4886e7d50256c50e2c207871483dac.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche piña y coco Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4c4e4979289497e25d1ccd2776f69f0e.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche tropical Hacendado sin azúcares añadidos
+Precio: 0.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d5d23064d5575f62c024832d398da0b1.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Mediterráneo Hacendado sin azúcares añadidos
+Precio: 0.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a3c6999466a281b29b984978aaa603d2.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Tropical Hacendado sin azúcares añadidos
+Precio: 1.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/69eb63ce8b7a5c36dafd47801f25284b.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Mediterráneo Hacendado sin azúcares añadidos
+Precio: 1.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1763f185d4d3dfacab73fd1c33e53b3f.jpg?fit=crop&h=300&w=300
+
+Nombre: Pan de leche Hacendado
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/91121503647f92da9fa6d7d56357c99c.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche classic Hacendado
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4fbd4326c624a5c9c03c8df395d755e8.jpg?fit=crop&h=300&w=300
+
+Nombre: Arroz con leche Hacendado
+Precio: 1.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ecd6886e214a2cc49c2738e7155c1a48.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas Choco leche con chocolatina Hacendado
+Precio: 1.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8391b82efd2c1caf4348ee2a05c8fd01.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche en cápsula Hacendado
+Precio: 3.05 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8551a9aa5574d1ddcb776b548b126588.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Fussion Hacendado relleno cremoso, avellanas y barquillo crujiente
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e2c1fb2292b9a19ac5ff105a7ad6ffaf.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Hacendado avellanas troceadas
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/54e54cb1a668eb22d9be2121a04742c8.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche cappuccino Hacendado
+Precio: 0.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Fussion Hacendado relleno de galleta caramelizada
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6e4ccc56e05bd6ea02a31c55f109b993.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Hacendado almendras troceadas
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6773b2b9f2d551ace25d8d54d89575ac.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche fundir Hacendado
+Precio: 2.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5230162330fda1f7d9e46152ba7a087d.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche en cápsula descafeinado Hacendado
+Precio: 3.05 EUR
+Imagen: https://prod-mercadona.imgix.net/images/9a8ce5e85313c9ab55e10f37ca962549.jpg?fit=crop&h=300&w=300
+
+Nombre: Arroz con leche Hacendado
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e48f6d403ada0c0699b89d166b720ed7.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche light sin lactosa Hacendado
+Precio: 0.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5fe468972fe8cc7a33506cba2b436946.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche espresso Hacendado
+Precio: 0.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/fbace2711111518e9ab7a3c54ad58656.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Fussion Hacendado relleno crema de fresa
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/19aa713999445aa47eca1dd187919936.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche descafeinado Hacendado
+Precio: 0.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/83a4f4b01c38d63142b2646afe4e1fa7.jpg?fit=crop&h=300&w=300
+
+Nombre: Cereales rellenos de leche Hacendado
+Precio: 2.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate extrafino con leche Hacendado almendras enteras
+Precio: 1.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2108bcd0f61db865e8504f9f12371050.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate extrafino con leche Hacendado 0% azúcares añadidos
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/3da18931b83995f48721d0e58f5c1391.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate extrafino con leche Fussion Hacendado con galletas animadas
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/dbee78aa73704e7c28565407c04dc4fd.jpg?fit=crop&h=300&w=300
+
+Nombre: Postre dulce de leche Hacendado
+Precio: 2.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/36eceb98d560a1f92c5d72f1b5a094b5.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas Digestive chocolate con leche Hacendado
+Precio: 1.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b50740365ef904b26ea3032c1e89b16a.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate 90% leche Hacendado
+Precio: 1.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/175f7555e6552bbb059e836453b3145e.jpg?fit=crop&h=300&w=300
+
+Nombre: Natillas de chocolate con leche Hacendado
+Precio: 1.05 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e054a3faa656994ccf74583bfc8e11b3.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de chocolate con leche Hacendado rellenas de leche
+Precio: 2.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/03ce26d79f3a66729dd3d07bf494e434.jpg?fit=crop&h=300&w=300
+
+Nombre: Mini cereales rellenos de leche Hacendado
+Precio: 1.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5983fd12170615acbc2a97005b27002a.jpg?fit=crop&h=300&w=300
+
+Nombre: Cacahuetes Hacendado chocolate con leche
+Precio: 2.15 EUR
+Imagen: https://prod-mercadona.imgix.net/images/71915c5db3754a13e1f1ea5f25b6651b.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas Divertidas chocolate con leche Hacendado
+Precio: 2.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/51d47accde858f947c0e6c9cb093a70a.jpg?fit=crop&h=300&w=300
+
+Nombre: Rosquillas de chocolate con leche y coco Hacendado
+Precio: 1.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b5cc245fcd571b06777d72c09c1493f8.jpg?fit=crop&h=300&w=300
+
+Nombre: Turrón de chocolate con leche Cream cacahuete Hacendado con caramelo troceado
+Precio: 1.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ee38a023002d4b4c7b95560828a4b6f2.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate 90% leche Hacendado
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d7820964ecf607646cd817c5686a12ee.jpg?fit=crop&h=300&w=300
+
+Nombre: Piruleta de chocolate con leche Hacendado Navidad
+Precio: 1.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/90c7b50211edfd099c6c61500ee4986e.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas Digestive avena chocolate con leche Hacendado
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/bc86d55631b050ed5fddbd75adb3ef66.jpg?fit=crop&h=300&w=300
+
+Nombre: Tortitas de arroz con chocolate con leche Hacendado
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/60b082a9bef5bf65a21fff90ea8a2ba4.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas con chocolate y crema de leche Hacendado
+Precio: 2.30 EUR
+Imagen: https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de cereales Hacendado chocolate con leche
+Precio: 1.45 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8641427e2c919b791fd2e7d6092b8d0b.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas Peanuts bañadas de chocolate con leche y rellenas con caramelo, cacahuetes tostados y crema azucarada Hacendado
+Precio: 1.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0ab8e3420dc6bf467586a688c2752244.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de cereales Pop Corn con leche, cacahuetes y palomitas Hacendado
+Precio: 1.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/264b7f3893149db0520fc484fc2f9111.jpg?fit=crop&h=300&w=300
+
+Nombre: Mini magdalenas con pepitas de chocolate con leche Hacendado
+Precio: 1.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c016e796dbf8a761318f4793d2986b48.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas crujientes Hacendado recubiertas de chocolate con leche
+Precio: 1.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0f52397bdf3b9d83818cd35d7de394f7.jpg?fit=crop&h=300&w=300
+
+Nombre: Cacahuetes Chocoiris Hacendado bañados de chocolate con leche coloreados
+Precio: 1.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/411ebbb18356a72c2e48392a9bce1ec5.jpg?fit=crop&h=300&w=300
+
+Nombre: Bolas de cereal bañadas Hacendado de chocolate negro, con leche y blanco
+Precio: 2.15 EUR
+Imagen: https://prod-mercadona.imgix.net/images/da1ac26bc66c335108870ce83fbd3122.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de galleta y caramelo Hacendado bañadas de chocolate con leche
+Precio: 1.85 EUR
+Imagen: https://prod-mercadona.imgix.net/images/797eca2ef0d8ed144f72df73f00b7fad.jpg?fit=crop&h=300&w=300
+
+Nombre: Helado barrita crema sabor coco Hacendado con cobertura de chocolate con leche
+Precio: 3.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d759041b09eeb926f1517f3a6570ef55.jpg?fit=crop&h=300&w=300
+
+Nombre: Cereales copos de trigo integral y arroz Hacendado bañados en chocolate con leche
+Precio: 2.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5ef3d3435e4f02a3589a3745a9891faa.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de barquillo Hacendado con relleno de avellana cubiertas de chocolate con leche
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0d7e2d4053bd3877e53a81d1ae7bf46e.jpg?fit=crop&h=300&w=300
+
+Nombre: Galletas Choco con relleno de crema de cacao Hacendado recubiertas de chocolate con leche
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/9cc2b86fdfda6624b109f7f059d478a6.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea desnatada omega 3 Hacendado
+Precio: 6.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f67be29156bd625bdbd95683f7b58551.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea semidesnatada con fibra Hacendado
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/be9b67b0a4dcf2bcbaabb8bac2ef3318.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea semidesnatada con fibra Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/120f6a29ceb6ccc2fea56cc1d064e29c.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo con cacao y cereales crecimiento Hacendado +1 año
+Precio: 2.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/eb3129e1e4f08e09ede9b032f68376d5.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea desnatada omega 3 Hacendado
+Precio: 1.10 EUR
+Imagen: https://prod-mercadona.imgix.net/images/51221b62527e1c7f79e59af59784598b.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo crecimiento +1 año Hacendado
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ed4e235859bc9c08970385babaa0fdb5.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo con cereales crecimiento Hacendado +1 año
+Precio: 9.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e699a50cc6e2a0cf252768c44dc58ee3.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo con cereales crecimiento Hacendado +1 año
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d20912c3ad645e1e9590a692d4ddce51.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo crecimiento +1 año Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/01c077a7a1d4408f51d3b03a924e68fa.jpg?fit=crop&h=300&w=300
+
+Nombre: Fideos de chocolate Hacendado
+Precio: 1.45 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=300&w=300
+
+Nombre: Bollo con pepitas de chocolate Hacendado Choco Buns
+Precio: 1.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/3c54fa2c63572efdb7ca3059458fada9.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensaimadas Hacendado
+Precio: 1.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/77b0a5b3d76ae942055a99cefa8d6c36.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate Hacendado
+Precio: 1.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/3cea02fc6511b13003b8cd6ed8fc1f1e.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de almendras 0% azúcar Hacendado
+Precio: 1.30 EUR
+Imagen: https://prod-mercadona.imgix.net/images/27f6eb89ac6b029a365db75392df373a.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de almendras 0% azúcar Hacendado
+Precio: 7.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7f5b830fb950ac1a16d1dfed7f4a85b4.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja con calcio y vitaminas Hacendado
+Precio: 3.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/092f4c51a5bcdf9c892801ad7c0fc0f7.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja 0% azúcar Hacendado
+Precio: 0.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2d78404f8185f3c3b96ed82fdde565d7.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido sabor fresa Hacendado
+Precio: 1.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/dd577f5bcb0d1d488e8475cbc3fbc81c.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de vainilla Hacendado
+Precio: 1.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c8afc9dedf7500b35a72d1656876f224.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena sin azúcares añadidos Hacendado
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena Hacendado 0% azúcar
+Precio: 4.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d37ca9bd4e181ab7c222ab18a0d579d4.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avellana y arroz sin azúcares añadidos Hacendado
+Precio: 1.30 EUR
+Imagen: https://prod-mercadona.imgix.net/images/48f3b41650de1c5aab91011aceddc8d4.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja con calcio y vitaminas Hacendado
+Precio: 0.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c331a74a00b4a089b26879c6ce1a9274.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de almendras Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e6d5007275dab302b4705da8a5db1382.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena Hacendado 0% azúcar
+Precio: 0.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/00dfbf377ed1f04756356386173ebe37.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja 0% azúcar Hacendado
+Precio: 4.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e062191feded1b1a55c980ebfd853406.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate Hacendado 0% sin azúcares añadidos
+Precio: 1.85 EUR
+Imagen: https://prod-mercadona.imgix.net/images/705e4b69f5952299c3f9d7e954440275.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de almendras Hacendado
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e4a083b607ffb5a2235cadc434a932d0.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja sabor vainilla Hacendado 0% azúcar
+Precio: 1.10 EUR
+Imagen: https://prod-mercadona.imgix.net/images/82a4f88cd6bdef80c7d12730066cb147.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena sin azúcares añadidos Hacendado
+Precio: 7.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/83b530034c84f1327f738eee7a20e584.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena con chocolate sin azúcares añadidos Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2e5f0ed711b55055844c360f7d692e1e.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate Hacendado
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/eae2a160d018b1c6b49b65aee8a11c79.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena con chocolate sin azúcares añadidos Hacendado
+Precio: 1.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b1d5ae5344b4991270bfb92a99c36e82.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avellana y arroz sin azúcares añadidos Hacendado
+Precio: 7.80 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a45c6c0894a2635aad570cc9b30add0d.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de arroz sin azúcares añadidos Hacendado
+Precio: 1.10 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7370ecfcd41db96dcbf77918f6ef52af.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido sabor fresa Hacendado
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/26afc175f1198a7e222963bbc727fd96.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de arroz sin azúcares añadidos Hacendado
+Precio: 6.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0295f650972366ad10c92993bf09d115.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja sabor vainilla Hacendado 0% azúcar
+Precio: 6.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/659b38ff1259a7fce93b5811e134cb6e.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido sabor vainilla Hacendado
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/fc6008c7edf9fe7a4600ecb22491812c.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja con café sin azúcares añadidos Hacendado
+Precio: 1.25 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5f248c03d41e918a294952684e447c6f.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena con chocolate Hacendado sin azucares añadidos
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b06e21061c823e71ef9ed734b6b3a57f.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena con café Hacendado
+Precio: 0.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/82760f38aabf221eb490fb18ac860555.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de soja con café sin azúcares añadidos Hacendado
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a12c8508a8c1dac2963ad7368dc6bb05.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de coco y arroz sin azúcares añadidos Hacendado
+Precio: 9.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7c35ba5dd79dbf94fdeb432d1f80106f.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de coco y arroz sin azúcares añadidos Hacendado
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c9d5c928c1099db31752e2e688d808a6.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche de coco Dee Thai
+Precio: 1.35 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4ccebbaef57cc7bef3c8bd60ccac94d5.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Asturiana
+Precio: 6.96 EUR
+Imagen: https://prod-mercadona.imgix.net/images/edf85617b6be1bba7c21e069fe60270b.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Asturiana
+Precio: 6.66 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e40ac63fc5f5c5aa17165aace60f8553.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Asturiana
+Precio: 10.74 EUR
+Imagen: https://prod-mercadona.imgix.net/images/5e40201cb97f7e80d8668e080c0238d0.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Asturiana
+Precio: 10.92 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d6b1617dd80c545bdb8df445f8d60bbb.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Asturiana
+Precio: 1.79 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2ebe3a699ddccda2d8e9a9610b8569b7.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Asturiana
+Precio: 1.82 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2bc645a87e7a174ec369c906429b991a.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche entera Asturiana
+Precio: 1.16 EUR
+Imagen: https://prod-mercadona.imgix.net/images/75040edffa29e7e3e0572f224dbc56c9.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Asturiana
+Precio: 6.42 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ea41bac1bbcfac6598cf8b43ed0a9afc.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche semidesnatada Asturiana
+Precio: 1.11 EUR
+Imagen: https://prod-mercadona.imgix.net/images/38fff6960eee609b4b38a12433de2a69.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche en polvo desnatada
+Precio: 5.30 EUR
+Imagen: https://prod-mercadona.imgix.net/images/17bd49f9b24aa0e4291b0b29ea497d12.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche corporal nutritiva Nivea con ácido hialurónico, aceite de almendras y sérum de nutrición profunda
+Precio: 4.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ab0fdc2e46e5e4cc481ee550a78c4c37.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Asturiana
+Precio: 10.32 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8c85f15d6635be7cb26a3eb10e42c64f.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche facial limpiadora Facial Clean Deliplus
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ab21f79164e5f7c0655ab681cc16e8fb.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Asturiana
+Precio: 1.07 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c7136d8bc6d7a67d220d94a1214b6634.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche desnatada Asturiana
+Precio: 1.72 EUR
+Imagen: https://prod-mercadona.imgix.net/images/bd9da277d5bec234f009b84ee8ee2385.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche para lactantes en polvo 1 Nativa Nestlé
+Precio: 11.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/75696deaf71e6e6313c74d64a4239e95.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche de continuación en polvo 2 Nidina Nestlé
+Precio: 17.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4cb22b9e94f249763bdc0737456c8380.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche para lactantes en polvo 1 Nidina Nestlé
+Precio: 14.90 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a4113504cb68b8142e22a493f02d0474.jpg?fit=crop&h=300&w=300
+
+Nombre: Leche de continuación en polvo 2 Nativa Nestlé
+Precio: 10.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/864398e89e2972bc707e121d6603e190.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche tropical Bifrutas
+Precio: 2.39 EUR
+Imagen: https://prod-mercadona.imgix.net/images/b8b116addef3f80e20bd3042dde721b6.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche Caribe Don Simón sin azúcares añadidos y zero materia grasa
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/bbed0e5ba3617c5be6c3c8bec5b6eff3.jpg?fit=crop&h=300&w=300
+
+Nombre: Fruta + leche tropical Bifrutas
+Precio: 2.49 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1c0a2b1501d56164f974b9e3b31ac419.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche extrafino Nestlé
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0c2bad4a980d096d45c36dcf421ff7d1.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Milka
+Precio: 1.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e6cbab042ce93bc6756ef45ff91a19bc.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche en cápsula Dolce Gusto
+Precio: 4.89 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ab4ecad45970999f2072ef13c66d50dd.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Oreo Milka
+Precio: 1.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/4804a059d5a8a74ee848cfe5c7c6acd9.jpg?fit=crop&h=300&w=300
+
+Nombre: Dulce de leche Chimbote
+Precio: 2.71 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2feec77376dba93bb847e0de3ffa1544.jpg?fit=crop&h=300&w=300
+
+Nombre: Crema de leche para café Campina
+Precio: 1.30 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Valor almendras enteras
+Precio: 3.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/bcaa486e4d86b511a2b6e3b86a41187d.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Milka galleta
+Precio: 3.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ce540e0f2cdc3709cc2c6e133e4cf598.jpg?fit=crop&h=300&w=300
+
+Nombre: Café con leche en cápsula Tassimo
+Precio: 5.15 EUR
+Imagen: https://prod-mercadona.imgix.net/images/58ab2625f5a94ce3a1b056a0ef4bb0d4.jpg?fit=crop&h=300&w=300
+
+Nombre: Chocolate con leche Valor almendras enteras
+Precio: 3.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e7b89c5db505fd7d552fc08d6c0cacb9.jpg?fit=crop&h=300&w=300
+
+Nombre: 6 Panes de leche 3%
+Precio: 1.60 EUR
+Imagen: https://prod-mercadona.imgix.net/images/44b8ab62b1c5466d41533894d27007dd.jpg?fit=crop&h=300&w=300
+
+Nombre: Salchichas cocidas con leche Campofrío de pollo, cerdo y pavo
+Precio: 1.05 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8108f532adc5d51fc6ea02d3e8cd4c12.jpg?fit=crop&h=300&w=300
+
+Nombre: Crema al cacao y leche con avellanas Nocilla
+Precio: 3.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a8252784940cc109c46320afa1462b82.jpg?fit=crop&h=300&w=300
+
+Nombre: Monedas de chocolate con leche
+Precio: 1.20 EUR
+Imagen: https://prod-mercadona.imgix.net/images/3ab0f87efde4067dba62b5855cb309b1.jpg?fit=crop&h=300&w=300
+
+Nombre: Bombones de chocolate con leche Lindor Lindt
+Precio: 7.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/51a498f0950bd79794882a52edcb8e79.jpg?fit=crop&h=300&w=300
+
+Nombre: Disquitos Pintarolas de chocolate con leche coloreados
+Precio: 1.75 EUR
+Imagen: https://prod-mercadona.imgix.net/images/9c21f0d353f64a2268b765f87dfdee7e.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea Omega 3 Puleva con leche desnatada
+Precio: 10.14 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7c9553aed202938385ddf8f174e0c805.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea Omega 3 Puleva con leche desnatada
+Precio: 1.69 EUR
+Imagen: https://prod-mercadona.imgix.net/images/af6b32b8e306c397ff7748e5e33e2b48.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de galleta bañadas en chocolate con leche Chips Ahoy
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=300&w=300
+
+Nombre: Paté perro júnior Delikuit con ternera y leche
+Precio: 0.85 EUR
+Imagen: https://prod-mercadona.imgix.net/images/26463f4d76caab3672d0c5344ce71b34.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de barquillo Huesitos bañadas de chocolate con leche
+Precio: 2.45 EUR
+Imagen: https://prod-mercadona.imgix.net/images/87917c5b5a8092a2ed5a8deebe3b4f4b.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea Omega 3 Puleva con nueces y leche desnatada
+Precio: 10.14 EUR
+Imagen: https://prod-mercadona.imgix.net/images/44878962de796b4e42978ad916d74085.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea Omega 3 Puleva con nueces y leche desnatada
+Precio: 1.69 EUR
+Imagen: https://prod-mercadona.imgix.net/images/727b2b36911d29697c9096873e6c679a.jpg?fit=crop&h=300&w=300
+
+Nombre: Barritas de barquillo Kit-Kat bañadas de chocolate con leche
+Precio: 3.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/8f8c9d4b59532f704489180a28e80143.jpg?fit=crop&h=300&w=300
+
+Nombre: Surtido croissants rellenos de crema de cacao y crema con leche sabor a chocolate blanco
+Precio: 2.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/36b47261ef60bb181f8356cd72103704.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo crecimiento Peques 3 Puleva
+Precio: 11.34 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0eb1a32f718d58a6aca7ce78240dc626.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea crecimiento y desarrollo Puleva Max
+Precio: 9.54 EUR
+Imagen: https://prod-mercadona.imgix.net/images/9b6989b055097b3c940cf65771d5b740.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo con cereales crecimiento Peques 3 Puleva
+Precio: 11.34 EUR
+Imagen: https://prod-mercadona.imgix.net/images/93b95db0484afada5dc9d659377e3b60.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea con cereales crecimiento y desarrollo Puleva Max
+Precio: 9.54 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e379fef0061f1a61a0e739501bbef5bf.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo cereales al cacao Peques 3 Puleva
+Precio: 1.89 EUR
+Imagen: https://prod-mercadona.imgix.net/images/97890c6bb75ab7a977627f665695b50c.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea crecimiento y desarrollo Puleva Max
+Precio: 1.59 EUR
+Imagen: https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo crecimiento Peques 3 Puleva
+Precio: 1.89 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7b8974e1133b2bab68425237b8ac4cf9.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida láctea con cereales crecimiento y desarrollo Puleva Max
+Precio: 1.59 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c85afeaac6cd1ae2471bde46f0458b9a.jpg?fit=crop&h=300&w=300
+
+Nombre: Preparado lácteo con cereales crecimiento Peques 3 Puleva
+Precio: 1.89 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a20e4e3d68cd68b033468cbf40539afd.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena Alitey
+Precio: 5.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/32186ccca22c37aad2a1bab07664e7a5.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena Alitey
+Precio: 0.95 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e252b6be7d9649959660907f85a91be8.jpg?fit=crop&h=300&w=300
+
+Nombre: Batido de chocolate ColaCao Energy
+Precio: 2.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0a3c939365e1ccf1721e9dffe80a17c1.jpg?fit=crop&h=300&w=300
+
+Nombre: Bebida de avena Alitey
+Precio: 1.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0d7db282be8083e76a5d579dec6c9ade.jpg?fit=crop&h=300&w=300
+
+Nombre: Garbanzo lechoso andaluz Hacendado
+Precio: 2.45 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a17e6697c70401744148644cc51d7bcc.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga Iceberg
+Precio: 1.01 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e047afab489d1c6a9ffc9e7da122ce3f.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga iceberg
+Precio: 0.88 EUR
+Imagen: https://prod-mercadona.imgix.net/images/580c669243865a140be58304751de37b.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechugas corazón romana
+Precio: 1.58 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f073d57203d1d5b93f0aa0b07f5b1f3a.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga romana cortada
+Precio: 1.10 EUR
+Imagen: https://prod-mercadona.imgix.net/images/de27c05991934ccea736560b54d21694.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga hoja roble
+Precio: 1.48 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e6c61271d21736c09049e28c7a5d0c1b.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga Batavia
+Precio: 1.12 EUR
+Imagen: https://prod-mercadona.imgix.net/images/37107dd93bf9f8605dd24b221fc189c8.jpg?fit=crop&h=300&w=300
+
+Nombre: Lecho vegetal para pequeñas mascotas Nuske
+Precio: 6.40 EUR
+Imagen: https://prod-mercadona.imgix.net/images/ba3db99f219dc9d6a4697433369a97b2.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga Batavia
+Precio: 1.85 EUR
+Imagen: https://prod-mercadona.imgix.net/images/18eb3b0f433c2a805d3b23a033d80ff7.jpg?fit=crop&h=300&w=300
+
+Nombre: Lechuga trocadero
+Precio: 0.73 EUR
+Imagen: https://prod-mercadona.imgix.net/images/25918e94342ed478e621ce93af59fcba.jpg?fit=crop&h=300&w=300
+
+Nombre: Cogollos de lechuga
+Precio: 1.00 EUR
+Imagen: https://prod-mercadona.imgix.net/images/a39a54106c2164d0077a9a018e413f37.jpg?fit=crop&h=300&w=300
+
+Nombre: Pierna de lechal entera congelada
+Precio: 9.04 EUR
+Imagen: https://prod-mercadona.imgix.net/images/c0ed8eb74a7466b67a259225ee07df9e.jpg?fit=crop&h=300&w=300
+
+Nombre: Cogollos corazón de lechuga
+Precio: 1.89 EUR
+Imagen: https://prod-mercadona.imgix.net/images/48c3a303a04d609dfef8ee01df5c0bcc.jpg?fit=crop&h=300&w=300
+
+Nombre: Chuletas cordero de lechal congeladas
+Precio: 12.65 EUR
+Imagen: https://prod-mercadona.imgix.net/images/9cded30427e3dd3c5916f01d19f3c8e4.jpg?fit=crop&h=300&w=300
+
+Nombre: Bocaditos en salsa gato adulto Lechat Excellence con pollo, pavo y verduras
+Precio: 0.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f7b369e5941cec101f1710769c47ca53.jpg?fit=crop&h=300&w=300
+
+Nombre: Bocaditos en salsa gato adulto Lechat Excellence con salmón, trucha  y verduras
+Precio: 0.70 EUR
+Imagen: https://prod-mercadona.imgix.net/images/7b3ad728d68666008f7f4b4ecda401ce.jpg?fit=crop&h=300&w=300
+
+Nombre: Espinaca baby
+Precio: 1.13 EUR
+Imagen: https://prod-mercadona.imgix.net/images/035d190b46ffb4c1d984c4d529aed916.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla brotes tiernos
+Precio: 1.17 EUR
+Imagen: https://prod-mercadona.imgix.net/images/77a9cc89e7a3c57a49e23a71517e4796.jpg?fit=crop&h=300&w=300
+
+Nombre: Canónigos
+Precio: 1.16 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f0e683ae77cdd6372eaafd6420cc0171.jpg?fit=crop&h=300&w=300
+
+Nombre: Rúcula
+Precio: 0.81 EUR
+Imagen: https://prod-mercadona.imgix.net/images/83a2c7a099eeace37c9fd9081cfc8e76.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla dúo canónigos y rúcula
+Precio: 1.41 EUR
+Imagen: https://prod-mercadona.imgix.net/images/e9c3ec4c50c66754bbe94ab1ddaee683.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla 4 estaciones
+Precio: 0.78 EUR
+Imagen: https://prod-mercadona.imgix.net/images/521b7ea477692d5b5ae5835f2aea842c.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla gourmet
+Precio: 1.04 EUR
+Imagen: https://prod-mercadona.imgix.net/images/898858daf3420ea3c25faafc2a5fe30e.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla brotes tiernos maxi
+Precio: 1.62 EUR
+Imagen: https://prod-mercadona.imgix.net/images/11ebbe4d020f773396a255d3ba44b2e0.jpg?fit=crop&h=300&w=300
+
+Nombre: Endibias
+Precio: 1.73 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0b2f0449ace358bbf088184b7fd2dbbb.jpg?fit=crop&h=300&w=300
+
+Nombre: Escarola rizada
+Precio: 1.22 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1d36f182ba3c84584ce170e6a85b7363.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla gourmet maxi
+Precio: 1.73 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0929ebf10d8559d3c6dd22334c32c263.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada mezcla primavera
+Precio: 0.98 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d852827390098975287e27a902c825a4.jpg?fit=crop&h=300&w=300
+
+Nombre: Escarola rizada
+Precio: 1.77 EUR
+Imagen: https://prod-mercadona.imgix.net/images/0519eae2b26f56f98a5e95a6c2a6f669.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada César
+Precio: 2.55 EUR
+Imagen: https://prod-mercadona.imgix.net/images/6c1e8d81a65333a2c1acb8786702ca82.jpg?fit=crop&h=300&w=300
+
+Nombre: Wraps Texas
+Precio: 2.99 EUR
+Imagen: https://prod-mercadona.imgix.net/images/04bf395b4de971f2f72125fd108b4a4c.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada California
+Precio: 2.29 EUR
+Imagen: https://prod-mercadona.imgix.net/images/1182ea57b81fb00434ee9cac02972af7.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada ensatún
+Precio: 2.49 EUR
+Imagen: https://prod-mercadona.imgix.net/images/d90a20ad3e45b63ae278f9700c9fe117.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada de la casa
+Precio: 2.14 EUR
+Imagen: https://prod-mercadona.imgix.net/images/73f05e694a98629d67320b9487b259c7.jpg?fit=crop&h=300&w=300
+
+Nombre: Ensalada de pasta
+Precio: 2.49 EUR
+Imagen: https://prod-mercadona.imgix.net/images/f689dbcd5894de71024ca4706f0dfaaa.jpg?fit=crop&h=300&w=300
+
+Nombre: Mini mechero Clipper
+Precio: 2.50 EUR
+Imagen: https://prod-mercadona.imgix.net/images/2de97805b25dd712ad31a10294d678bb.jpg?fit=crop&h=300&w=300
+

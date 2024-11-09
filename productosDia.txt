@@ -1,0 +1,1424 @@
+Nombre: Leche semidesnatada Dia Láctea brik 6 x 1 l
+Precio: 4.98 EUR
+Imagen: https://www.dia.es/product_images/504P6/504P6_ISO_0_ES.jpg
+
+Nombre: Leche entera Dia Láctea brik 6 x 1 l
+Precio: 5.52 EUR
+Imagen: https://www.dia.es/product_images/608P6/608P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Dia Láctea brik 6 x 1 l
+Precio: 4.74 EUR
+Imagen: https://www.dia.es/product_images/607P6/607P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Dia Láctea brik 6 x 1 l
+Precio: 5.46 EUR
+Imagen: https://www.dia.es/product_images/130063P6/130063P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Dia Láctea brik 1 l
+Precio: 0.83 EUR
+Imagen: https://www.dia.es/product_images/504/504_ISO_0_ES.jpg
+
+Nombre: Leche entera Dia Láctea brik 1 l
+Precio: 0.92 EUR
+Imagen: https://www.dia.es/product_images/608/608_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana brik 6 x 1 l
+Precio: 6.66 EUR
+Imagen: https://www.dia.es/product_images/17548P6/17548P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Dia Láctea brik 6 x 1 l
+Precio: 5.28 EUR
+Imagen: https://www.dia.es/product_images/185450P6/185450P6_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana brik 6 x 1 l
+Precio: 6.96 EUR
+Imagen: https://www.dia.es/product_images/16065P6/16065P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Dia Láctea brik 1 l
+Precio: 0.79 EUR
+Imagen: https://www.dia.es/product_images/607/607_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Dia Láctea brik 1 l
+Precio: 0.91 EUR
+Imagen: https://www.dia.es/product_images/130063/130063_ISO_0_ES.jpg
+
+Nombre: Leche entera Dia Láctea brik 3 x 200 ml
+Precio: 0.87 EUR
+Imagen: https://www.dia.es/product_images/303496/303496_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Dia Láctea brik 6 x 1 l
+Precio: 5.94 EUR
+Imagen: https://www.dia.es/product_images/225278P6/225278P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana botella 6 x 2.2 l
+Precio: 13.98 EUR
+Imagen: https://www.dia.es/product_images/173903P6/173903P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Dia Láctea brik 1 l
+Precio: 0.88 EUR
+Imagen: https://www.dia.es/product_images/185450/185450_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana botella 6 x 1.5 l
+Precio: 10.92 EUR
+Imagen: https://www.dia.es/product_images/74720P6/74720P6_ISO_0_ES.jpg
+
+Nombre: Leche fresca entera Dia Láctea botella 1 l
+Precio: 1.07 EUR
+Imagen: https://www.dia.es/product_images/271329/271329_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana botella 1.5 l
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/5716/5716_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana brik 6 x 1 l
+Precio: 6.42 EUR
+Imagen: https://www.dia.es/product_images/16066P6/16066P6_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana botella 1.5 l
+Precio: 1.82 EUR
+Imagen: https://www.dia.es/product_images/74720/74720_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Pascual botella 6 x 188 ml
+Precio: 2.54 EUR
+Imagen: https://www.dia.es/product_images/303350/303350_ISO_0_ES.jpg
+
+Nombre: Leche desnatada rica en proteínas Puleva pack 6 x 1 l
+Precio: 10.08 EUR
+Imagen: https://www.dia.es/product_images/297193P6/297193P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada rica en proteínas Puleva brik 1 l
+Precio: 1.68 EUR
+Imagen: https://www.dia.es/product_images/297193/297193_ISO_0_ES.jpg
+
+Nombre: Bebida láctea buenas noches Puleva brik 1 l
+Precio: 1.38 EUR
+Imagen: https://www.dia.es/product_images/296413/296413_ISO_0_ES.jpg
+
+Nombre: leche semidesnatada Central Lechera Asturiana brik 500 ml
+Precio: 0.7 EUR
+Imagen: https://www.dia.es/product_images/294765/294765_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana botella 6 x 1.5 l
+Precio: 10.32 EUR
+Imagen: https://www.dia.es/product_images/74722P6/74722P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana botella 1.5 l
+Precio: 1.72 EUR
+Imagen: https://www.dia.es/product_images/74722/74722_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Pascual brik 6 x 1 l
+Precio: 7.98 EUR
+Imagen: https://www.dia.es/product_images/73678P6/73678P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Pascual brik 1 l
+Precio: 1.33 EUR
+Imagen: https://www.dia.es/product_images/73678/73678_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Pascual brik 6 x 1 l
+Precio: 7.98 EUR
+Imagen: https://www.dia.es/product_images/73677P6/73677P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Pascual brik 1 l
+Precio: 1.33 EUR
+Imagen: https://www.dia.es/product_images/73677/73677_ISO_0_ES.jpg
+
+Nombre: Leche entera Pascual brik 6 x 1 l
+Precio: 7.98 EUR
+Imagen: https://www.dia.es/product_images/73676P6/73676P6_ISO_0_ES.jpg
+
+Nombre: Leche entera Pascual brik 1 l
+Precio: 1.33 EUR
+Imagen: https://www.dia.es/product_images/73676/73676_ISO_0_ES.jpg
+
+Nombre: Leche en polvo Sveltesse lata 600 g
+Precio: 8.57 EUR
+Imagen: https://www.dia.es/product_images/616/616_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana botella 6 x 1.5 l
+Precio: 10.74 EUR
+Imagen: https://www.dia.es/product_images/5716P6/5716P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Lauki brik 1 l
+Precio: 1.07 EUR
+Imagen: https://www.dia.es/product_images/34578/34578_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Celta brik 1.5 l
+Precio: 1.59 EUR
+Imagen: https://www.dia.es/product_images/31961/31961_ISO_0_ES.jpg
+
+Nombre: Leche infantil 2 classic Hero Baby Nutrasense bote 800 g
+Precio: 11.95 EUR
+Imagen: https://www.dia.es/product_images/301827/301827_ISO_0_ES.jpg
+
+Nombre: Leche infantil 1 classic Hero Baby Nutrasense bote 800 g
+Precio: 11.55 EUR
+Imagen: https://www.dia.es/product_images/301826/301826_ISO_0_ES.jpg
+
+Nombre: Leche fresca semidesnatada Dia Láctea botella 1 l
+Precio: 1.01 EUR
+Imagen: https://www.dia.es/product_images/271330/271330_ISO_0_ES.jpg
+
+Nombre: Leche desnatada suprema Central Lechera Asturiana brik 1 l
+Precio: 1.51 EUR
+Imagen: https://www.dia.es/product_images/250631/250631_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Central Lechera Asturiana pack 6 x 1 l
+Precio: 7.32 EUR
+Imagen: https://www.dia.es/product_images/240523P6/240523P6_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Central Lechera Asturiana brik 1 l
+Precio: 1.22 EUR
+Imagen: https://www.dia.es/product_images/240523/240523_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Dia Láctea brik 1 l
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/225278/225278_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana pack 6 x 2.2 l
+Precio: 13.32 EUR
+Imagen: https://www.dia.es/product_images/214269P6/214269P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana botella 2.2 l
+Precio: 2.22 EUR
+Imagen: https://www.dia.es/product_images/214269/214269_ISO_0_ES.jpg
+
+Nombre: Leche entera Lauki brik 1 l
+Precio: 1.11 EUR
+Imagen: https://www.dia.es/product_images/19814/19814_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Lauki brik 1 l
+Precio: 1.03 EUR
+Imagen: https://www.dia.es/product_images/1917/1917_ISO_0_ES.jpg
+
+Nombre: Jugo de coco bajo en grasa Tiger Khan lata 400 g
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/189082/189082_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada de cabra Covap brik 1 l
+Precio: 2.13 EUR
+Imagen: https://www.dia.es/product_images/188442/188442_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana pack 6 x 2.2 l
+Precio: 14.46 EUR
+Imagen: https://www.dia.es/product_images/184889P6/184889P6_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana botella 2.2 l
+Precio: 2.41 EUR
+Imagen: https://www.dia.es/product_images/184889/184889_ISO_0_ES.jpg
+
+Nombre: Leche entera Celta brik 1.5 l
+Precio: 1.52 EUR
+Imagen: https://www.dia.es/product_images/1786/1786_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana brik 1 l
+Precio: 1.11 EUR
+Imagen: https://www.dia.es/product_images/17548/17548_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada Central Lechera Asturiana botella 2.2 l
+Precio: 2.33 EUR
+Imagen: https://www.dia.es/product_images/173903/173903_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Central Lechera Asturiana brik 6 x 1 l
+Precio: 6.66 EUR
+Imagen: https://www.dia.es/product_images/169355P6/169355P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Central Lechera Asturiana brik 1 l
+Precio: 1.11 EUR
+Imagen: https://www.dia.es/product_images/169355/169355_ISO_0_ES.jpg
+
+Nombre: Leche desnatada Central Lechera Asturiana brik 1 l
+Precio: 1.07 EUR
+Imagen: https://www.dia.es/product_images/16066/16066_ISO_0_ES.jpg
+
+Nombre: Leche entera Central Lechera Asturiana brik 1 l
+Precio: 1.16 EUR
+Imagen: https://www.dia.es/product_images/16065/16065_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Central Lechera Asturiana brik 6 x 1 l
+Precio: 7.08 EUR
+Imagen: https://www.dia.es/product_images/148777P6/148777P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Central Lechera Asturiana brik 1 l
+Precio: 1.18 EUR
+Imagen: https://www.dia.es/product_images/148777/148777_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Pascual brik 6 x 1 l
+Precio: 8.76 EUR
+Imagen: https://www.dia.es/product_images/142327P6/142327P6_ISO_0_ES.jpg
+
+Nombre: Leche entera sin lactosa Pascual brik 1 l
+Precio: 1.46 EUR
+Imagen: https://www.dia.es/product_images/142327/142327_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Pascual brik 6 x 1 l
+Precio: 8.76 EUR
+Imagen: https://www.dia.es/product_images/119676P6/119676P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada sin lactosa Pascual brik 1 l
+Precio: 1.46 EUR
+Imagen: https://www.dia.es/product_images/119676/119676_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Pascual brik 6 x 1 l
+Precio: 8.76 EUR
+Imagen: https://www.dia.es/product_images/119675P6/119675P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada sin lactosa Pascual brik 1 l
+Precio: 1.46 EUR
+Imagen: https://www.dia.es/product_images/119675/119675_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno con caramelo y avellanas Milka 300 g
+Precio: 3.95 EUR
+Imagen: https://www.dia.es/product_images/99783/99783_ISO_0_ES.jpg
+
+Nombre: Bebida de soja Pascual Vivesoy pack 6 x 1 l
+Precio: 11.34 EUR
+Imagen: https://www.dia.es/product_images/73692P6/73692P6_ISO_0_ES.jpg
+
+Nombre: Bebida de soja Pascual Vivesoy brik 1 l
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/73692/73692_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche tropical Zumosfera de Dia brik 3 x 330 ml
+Precio: 1.09 EUR
+Imagen: https://www.dia.es/product_images/67783/67783_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno de caramelo Milka 100 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/64352/64352_ISO_0_ES.jpg
+
+Nombre: Leche condensada La lechera lata 740 g
+Precio: 4.19 EUR
+Imagen: https://www.dia.es/product_images/614/614_ISO_0_ES.jpg
+
+Nombre: Leche condensada La lechera lata 370 g
+Precio: 2.69 EUR
+Imagen: https://www.dia.es/product_images/613/613_ISO_0_ES.jpg
+
+Nombre: Leche condensada Dia Láctea lata 1 Kg
+Precio: 3.89 EUR
+Imagen: https://www.dia.es/product_images/6006/6006_ISO_0_ES.jpg
+
+Nombre: Leche condensada Dia Láctea bote 450 g
+Precio: 2.59 EUR
+Imagen: https://www.dia.es/product_images/57797/57797_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche tropical Zumosfera de Dia brik 1 l
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/50689/50689_ISO_0_ES.jpg
+
+Nombre: Bebida con leche tropical Pascual Bifrutas brik 3 x 330 ml
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/42812/42812_ISO_0_ES.jpg
+
+Nombre: Leche condensada La lechera bote 450 g
+Precio: 3.79 EUR
+Imagen: https://www.dia.es/product_images/41309/41309_ISO_0_ES.jpg
+
+Nombre: Bebida de soja Dia Vital brik 1 l
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/3027/3027_ISO_0_ES.jpg
+
+Nombre: Leche infantil 1 inicio Hero Baby Nutrasense premium bote 800 g  
+Precio: 16.95 EUR
+Imagen: https://www.dia.es/product_images/293652/293652_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche tropical zero Don Simón brik 6 x 200 ml
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/289860/289860_ISO_0_ES.jpg
+
+Nombre: Leche solar spf 50+ formato viaje Imaqe de Dia bote 100 ml
+Precio: 3.29 EUR
+Imagen: https://www.dia.es/product_images/288680/288680_ISO_0_ES.jpg
+
+Nombre: Bebida de avena sin azúcar Alpro pack 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/285659P6/285659P6_ISO_0_ES.jpg
+
+Nombre: Bebida de avena sin azúcar Alpro brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/285659/285659_ISO_0_ES.jpg
+
+Nombre: Bebida de almendras sin azúcar Alpro pack 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/285658P6/285658P6_ISO_0_ES.jpg
+
+Nombre: Bebida de almendras sin azúcar Alpro brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/285658/285658_ISO_0_ES.jpg
+
+Nombre: Leche corporal vitamina b3 Babaria bote 500 ml
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/282658/282658_ISO_0_ES.jpg
+
+Nombre: Bebida con leche tropical natural Pascual Bifrutas botella 240 ml
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/274201/274201_ISO_0_ES.jpg
+
+Nombre: Leche desmaquillante calmante pétalos de rosa Imaqe de Dia bote 250 ml
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/272022/272022_ISO_0_ES.jpg
+
+Nombre: Bebida leche y frutas caribe Zumosfera de Dia brik 1 l
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/271652/271652_ISO_0_ES.jpg
+
+Nombre: Bebida de fruta con leche melón y sandía Zumosfera de Dia brik 3 x 330 ml
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/271648/271648_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Yosoy brik 1 l
+Precio: 1.59 EUR
+Imagen: https://www.dia.es/product_images/270828/270828_ISO_0_ES.jpg
+
+Nombre: Leche corporal vitamina e Babaria bote 500 ml
+Precio: 3.15 EUR
+Imagen: https://www.dia.es/product_images/269073/269073_ISO_0_ES.jpg
+
+Nombre: Leche corporal vitamina c Babaria bote 500 ml
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/269072/269072_ISO_0_ES.jpg
+
+Nombre: Bebida de almendras 0% azúcares Vegedia brik 1 l
+Precio: 1.3 EUR
+Imagen: https://www.dia.es/product_images/267684/267684_ISO_0_ES.jpg
+
+Nombre: Bebida de arroz Vegedia brik 1 l
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/267683/267683_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Vegedia brik 1 l
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/267682/267682_ISO_0_ES.jpg
+
+Nombre: Leche infantil crecimiento con cereales Nestlé brik 1 l
+Precio: 2.35 EUR
+Imagen: https://www.dia.es/product_images/265764/265764_ISO_0_ES.jpg
+
+Nombre: Leche evaporada sin lactosa Ideal brik 525 g
+Precio: 3.05 EUR
+Imagen: https://www.dia.es/product_images/239520/239520_ISO_0_ES.jpg
+
+Nombre: Bebida con leche mediterráneo Pascual Bifrutas brik 6 x 200 ml
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/224182/224182_ISO_0_ES.jpg
+
+Nombre: Bebida con leche mediterráneo Pascual Bifrutas brik 3 x 330 ml
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/224181/224181_ISO_0_ES.jpg
+
+Nombre: Bebida de avena con calcio Vegedia brik 1 l
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/207399/207399_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con trozos de oreo Milka 300 g
+Precio: 3.75 EUR
+Imagen: https://www.dia.es/product_images/203153/203153_ISO_0_ES.jpg
+
+Nombre: Leche infantil crecimiento con galleta maria Nativa brik 1 l
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/182329/182329_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con trozos de chips ahoy Milka 100 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/181068/181068_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Pascual Vivesoy pack 6 x 1 l
+Precio: 11.34 EUR
+Imagen: https://www.dia.es/product_images/174052P6/174052P6_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Pascual Vivesoy brik 1 l
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/174052/174052_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche tropical Zumosfera de Dia brik 6 x 200 ml
+Precio: 1.25 EUR
+Imagen: https://www.dia.es/product_images/173780/173780_ISO_0_ES.jpg
+
+Nombre: Bebida de almendras Alpro brik 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/167442P6/167442P6_ISO_0_ES.jpg
+
+Nombre: Bebida de almendras Alpro brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/167442/167442_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Alpro pack 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/163737P6/163737P6_ISO_0_ES.jpg
+
+Nombre: Bebida de avena Alpro brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/163737/163737_ISO_0_ES.jpg
+
+Nombre: Leche evaporada Ideal brik 525 g
+Precio: 2.44 EUR
+Imagen: https://www.dia.es/product_images/163643/163643_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche mediterráneo Zumosfera de Dia brik 1 l
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/163217/163217_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche mediterráneo Zumosfera de Dia brik 3 x 330 ml
+Precio: 1.09 EUR
+Imagen: https://www.dia.es/product_images/163216/163216_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche caribe Zumosfera de Dia brik 6 x 20 cl
+Precio: 1.2 EUR
+Imagen: https://www.dia.es/product_images/158331/158331_ISO_0_ES.jpg
+
+Nombre: Leche corporal reparadora Lactovit Lactourea bote 400 ml
+Precio: 4.89 EUR
+Imagen: https://www.dia.es/product_images/154437/154437_ISO_0_ES.jpg
+
+Nombre: Leche limpiadora suave todo tipo de piel Diadermine bote 200 ml
+Precio: 5.49 EUR
+Imagen: https://www.dia.es/product_images/151613/151613_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con trozos de oreo Milka 100 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/148491/148491_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche mediterráneo Zumosfera de Dia brik 6 x 200 ml
+Precio: 1.25 EUR
+Imagen: https://www.dia.es/product_images/146653/146653_ISO_0_ES.jpg
+
+Nombre: Leche infantil 1 inicio premium Nidina lata 800 g
+Precio: 14.9 EUR
+Imagen: https://www.dia.es/product_images/129743/129743_ISO_0_ES.jpg
+
+Nombre: Leche infantil 1 inicio Nativa lata 800 g
+Precio: 11.9 EUR
+Imagen: https://www.dia.es/product_images/129742/129742_ISO_0_ES.jpg
+
+Nombre: Bebida láctea con cereales crecimiento y desarrollo Puleva brik 1 l
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/129519/129519_ISO_0_ES.jpg
+
+Nombre: Bebida de soja ligera Alpro pack 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/126349P6/126349P6_ISO_0_ES.jpg
+
+Nombre: Bebida de soja ligera Alpro brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/126349/126349_ISO_0_ES.jpg
+
+Nombre: Bebida con leche tropical Pascual Bifrutas brik 6 x 20 cl
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/125790/125790_ISO_0_ES.jpg
+
+Nombre: Bebida de soja ligera sin azúcar Pascual Vivesoy pack 6 x 1 l
+Precio: 11.94 EUR
+Imagen: https://www.dia.es/product_images/121894P6/121894P6_ISO_0_ES.jpg
+
+Nombre: Bebida de soja ligera sin azúcar Pascual Vivesoy brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/121894/121894_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche mediterráneo zero Don Simón brik 6 x 200 ml
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/120879/120879_ISO_0_ES.jpg
+
+Nombre: Bebida de frutas con leche caribe zero Don Simón brik 6 x 200 ml
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/120878/120878_ISO_0_ES.jpg
+
+Nombre: Bebida con leche tropical Pascual Bifrutas brik 1 l
+Precio: 2.29 EUR
+Imagen: https://www.dia.es/product_images/115780/115780_ISO_0_ES.jpg
+
+Nombre: Leche infantil 2 continuación Nativa lata 800 g
+Precio: 11.95 EUR
+Imagen: https://www.dia.es/product_images/108337/108337_ISO_0_ES.jpg
+
+Nombre: Leche infantil 2 continuación Nidina lata 800 g
+Precio: 17.9 EUR
+Imagen: https://www.dia.es/product_images/107434/107434_ISO_0_ES.jpg
+
+Nombre: Leche infantil 3 crecimiento Nidina lata 800 g
+Precio: 17.9 EUR
+Imagen: https://www.dia.es/product_images/107406/107406_ISO_0_ES.jpg
+
+Nombre: Leche infantil crecimiento con cereales Puleva brik 1 l
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/105590/105590_ISO_0_ES.jpg
+
+Nombre: Dulce de leche Mardel frasco 450 g
+Precio: 3.15 EUR
+Imagen: https://www.dia.es/product_images/87057/87057_ISO_0_ES.jpg
+
+Nombre: Arroz con leche con canela Caprichoso Dia pack 4 x 125 g
+Precio: 1.35 EUR
+Imagen: https://www.dia.es/product_images/85630/85630_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras Temptation de Dia 150 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/82868/82868_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y avellanas Temptation de Dia 150 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/82867/82867_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con avellanas Milka 270 g
+Precio: 3.95 EUR
+Imagen: https://www.dia.es/product_images/70431/70431_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Nestlé Extrafino 250 g
+Precio: 2.95 EUR
+Imagen: https://www.dia.es/product_images/68891/68891_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Milka 125 g
+Precio: 1.3 EUR
+Imagen: https://www.dia.es/product_images/66565/66565_ISO_0_ES.jpg
+
+Nombre: Cereales copos de trigo integral y arroz con virutas de chocolate con leche Kellogg's Special K caja 335 g
+Precio: 3.45 EUR
+Imagen: https://www.dia.es/product_images/62177/62177_ISO_0_ES.jpg
+
+Nombre: Bebida láctea folic b Flora brik 1 l
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/61326/61326_ISO_0_ES.jpg
+
+Nombre: Bolas de chocolate con leche chocobolas Nestlé Extrafino 140 g
+Precio: 2.69 EUR
+Imagen: https://www.dia.es/product_images/60392/60392_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche suizo con miel y almendras Toblerone 3 x 50 g
+Precio: 3.85 EUR
+Imagen: https://www.dia.es/product_images/49862/49862_ISO_0_ES.jpg
+
+Nombre: Leche desnatada omega 3 Dia Láctea brik 1 l
+Precio: 1.1 EUR
+Imagen: https://www.dia.es/product_images/48888/48888_ISO_0_ES.jpg
+
+Nombre: Mousse de chocolate con leche Caprichoso Dia pack 4 x 60 g
+Precio: 1.05 EUR
+Imagen: https://www.dia.es/product_images/46923/46923_ISO_0_ES.jpg
+
+Nombre: Leche desnatada calcio Dia Láctea brik 1 l
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/46626/46626_ISO_0_ES.jpg
+
+Nombre: Leche entera calcio Dia Láctea brik 1 l
+Precio: 1.12 EUR
+Imagen: https://www.dia.es/product_images/46625/46625_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Nestlé Extrafino 3 x 125 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/46581/46581_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Milka 270 g
+Precio: 2.85 EUR
+Imagen: https://www.dia.es/product_images/45685/45685_ISO_0_ES.jpg
+
+Nombre: Bombones de chocolate con leche Lindt Lindor caja 200 g
+Precio: 7.49 EUR
+Imagen: https://www.dia.es/product_images/45440/45440_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate relleno de leche y avellanas Kinder bolsa 200 g
+Precio: 4.39 EUR
+Imagen: https://www.dia.es/product_images/41749/41749_ISO_0_ES.jpg
+
+Nombre: Pan de leche La bella easo bolsa 350 g
+Precio: 3.29 EUR
+Imagen: https://www.dia.es/product_images/34772/34772_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras enteras Temptation de Dia 200 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/34719/34719_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada calcio Dia Láctea brik 1 l
+Precio: 0.98 EUR
+Imagen: https://www.dia.es/product_images/34609/34609_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno de galleta y caramelo Nestlé Extrafino 87 g
+Precio: 1.3 EUR
+Imagen: https://www.dia.es/product_images/30498/30498_ISO_0_ES.jpg
+
+Nombre: Leche desnatada omega 3 Puleva brik 1 l
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/30052/30052_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche 0% sin azúcares añadidos Trapa 80 g
+Precio: 1.45 EUR
+Imagen: https://www.dia.es/product_images/291449/291449_ISO_0_ES.jpg
+
+Nombre: Pan de leche El molino de Dia bolsa 350 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/288023/288023_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y galleta XXL Nestlé Jungly 235 g
+Precio: 3.15 EUR
+Imagen: https://www.dia.es/product_images/285985/285985_ISO_0_ES.jpg
+
+Nombre: Café con leche Puleva botella 1 l
+Precio: 2.19 EUR
+Imagen: https://www.dia.es/product_images/284686/284686_ISO_0_ES.jpg
+
+Nombre: Galletas finas cubiertas de chocolate con leche sin azúcares Gullón bolsa 150 g
+Precio: 2.69 EUR
+Imagen: https://www.dia.es/product_images/284373/284373_ISO_0_ES.jpg
+
+Nombre: Cereales rellenos con leche Kellogg's Krave caja 375 g
+Precio: 4.25 EUR
+Imagen: https://www.dia.es/product_images/283096/283096_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Milka 3 x 100 g
+Precio: 3.4 EUR
+Imagen: https://www.dia.es/product_images/274381/274381_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y galleta Nestlé Jungly 125 g
+Precio: 1.69 EUR
+Imagen: https://www.dia.es/product_images/272731/272731_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas Nescafé Dolce Gusto caja 30 unidades
+Precio: 8.25 EUR
+Imagen: https://www.dia.es/product_images/255048/255048_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Dolca 100 g
+Precio: 1.05 EUR
+Imagen: https://www.dia.es/product_images/254523/254523_ISO_0_ES.jpg
+
+Nombre: Figura de chocolate con leche Reyes Magos Kinder 36 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/251850/251850_ISO_0_ES.jpg
+
+Nombre: Pétalos de chocolate con caramelo y sal Temptation de Dia estuche 125 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/249501/249501_ISO_0_ES.jpg
+
+Nombre: Pétalos de chocolate con leche Temptation de Dia caja 150 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/249495/249495_ISO_0_ES.jpg
+
+Nombre: Bombones de chocolate con leche Lindt Lindor caja 75 g
+Precio: 3.49 EUR
+Imagen: https://www.dia.es/product_images/241830/241830_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas intenso Nescafé Dolce Gusto caja 16 unidades
+Precio: 4.89 EUR
+Imagen: https://www.dia.es/product_images/240969/240969_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales y cacao bañadas en chocolate con leche Bicentury caja 120 g
+Precio: 3.49 EUR
+Imagen: https://www.dia.es/product_images/235134/235134_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas Marcilla caja 16 unidades
+Precio: 5.99 EUR
+Imagen: https://www.dia.es/product_images/228021/228021_ISO_0_ES.jpg
+
+Nombre: Sticks con crema de cacao y leche de avellanas Nocilla caja 60 g
+Precio: 1.3 EUR
+Imagen: https://www.dia.es/product_images/226688/226688_ISO_0_ES.jpg
+
+Nombre: Leche desnatada calcio Puleva pack 6 x 1 l
+Precio: 9.48 EUR
+Imagen: https://www.dia.es/product_images/22489P6/22489P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada calcio Puleva brik 1 l
+Precio: 1.58 EUR
+Imagen: https://www.dia.es/product_images/22489/22489_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada calcio Puleva brik 1 l
+Precio: 1.58 EUR
+Imagen: https://www.dia.es/product_images/22488/22488_ISO_0_ES.jpg
+
+Nombre: Bebida láctea omega 3 sin lactosa Puleva pack 6 x 1 l
+Precio: 11.34 EUR
+Imagen: https://www.dia.es/product_images/222584P6/222584P6_ISO_0_ES.jpg
+
+Nombre: Bebida láctea omega 3 sin lactosa Puleva brik 1 l
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/222584/222584_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas descafeinado Nescafé Dolce Gusto caja 16 unidades
+Precio: 4.89 EUR
+Imagen: https://www.dia.es/product_images/220579/220579_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Nestlé Extrafino 125 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/216/216_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas Cafetería de Dia caja 16 unidades
+Precio: 3.1 EUR
+Imagen: https://www.dia.es/product_images/202760/202760_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y avellanas enteras Milka 100 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/188647/188647_ISO_0_ES.jpg
+
+Nombre: Dulce de leche La lechera lata 397 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/188457/188457_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Valor 300 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/187852/187852_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y avellanas Nestlé Extrafino 123 g
+Precio: 2.05 EUR
+Imagen: https://www.dia.es/product_images/187847/187847_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras Nestlé Extrafino 123 g
+Precio: 2.05 EUR
+Imagen: https://www.dia.es/product_images/1721/1721_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con almendras enteras Valor 250 g
+Precio: 4.15 EUR
+Imagen: https://www.dia.es/product_images/140040/140040_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate relleno de leche y avellanas Kinder bolsa 125 g
+Precio: 3.19 EUR
+Imagen: https://www.dia.es/product_images/132928/132928_ISO_0_ES.jpg
+
+Nombre: Café con leche en cápsulas Nescafé Dolce Gusto caja 16 unidades
+Precio: 4.89 EUR
+Imagen: https://www.dia.es/product_images/129910/129910_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno de galleta choco-swing Milka 300 g
+Precio: 3.5 EUR
+Imagen: https://www.dia.es/product_images/12964/12964_ISO_0_ES.jpg
+
+Nombre: Pan de leche Brioche Pasquier bolsa 280 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/124812/124812_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con cereales Nestlé Crunch 100 g
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/12362/12362_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno de lacasitos Lacasitos 100 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/122965/122965_ISO_0_ES.jpg
+
+Nombre: Bebida láctea omega 3 con nueces Puleva brik 1 l
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/121677/121677_ISO_0_ES.jpg
+
+Nombre: Helado sabor dulce de leche Temptation de Dia tarrina 525 g
+Precio: 2.89 EUR
+Imagen: https://www.dia.es/product_images/118822/118822_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada calcio Pascual Movit brik 6 x 1 l
+Precio: 10.56 EUR
+Imagen: https://www.dia.es/product_images/112295P6/112295P6_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada calcio Pascual Movit brik 1 l
+Precio: 1.76 EUR
+Imagen: https://www.dia.es/product_images/112295/112295_ISO_0_ES.jpg
+
+Nombre: Cereales rellenos de leche Gran Dia caja 500 g
+Precio: 2.5 EUR
+Imagen: https://www.dia.es/product_images/111278/111278_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras troceadas Milka 125 g
+Precio: 2.09 EUR
+Imagen: https://www.dia.es/product_images/110031/110031_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras enteras 0% azúcares Valor 150 g
+Precio: 3.4 EUR
+Imagen: https://www.dia.es/product_images/108713/108713_ISO_0_ES.jpg
+
+Nombre: Cereales copos de arroz y trigo integral cubiertos de chocolate Gran Dia caja 300 g
+Precio: 1.88 EUR
+Imagen: https://www.dia.es/product_images/10545/10545_ISO_0_ES.jpg
+
+Nombre: Bollería con pepitas de chocolate con leche Weikis bolsa 240 g
+Precio: 2.69 EUR
+Imagen: https://www.dia.es/product_images/100947/100947_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales con chocolate con leche Corny caja 150 g
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/85271/85271_ISO_0_ES.jpg
+
+Nombre: Roscos de galleta con chocolate con leche chocoaros Galleteca de Dia bolsa 128 g
+Precio: 0.95 EUR
+Imagen: https://www.dia.es/product_images/84122/84122_ISO_0_ES.jpg
+
+Nombre: Leche crecimiento Puleva brik 1 l
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/83977/83977_ISO_0_ES.jpg
+
+Nombre: Puré de patatas con leche Maggi caja 230 g
+Precio: 2.59 EUR
+Imagen: https://www.dia.es/product_images/80291/80291_ISO_0_ES.jpg
+
+Nombre: Leche peques3 crecimiento con omega Puleva brik 1 l
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/78262/78262_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche Kinder caja 100 g
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/71366/71366_ISO_0_ES.jpg
+
+Nombre: Bebida láctea crecimiento y desarrollo Puleva brik 1 l
+Precio: 1.59 EUR
+Imagen: https://www.dia.es/product_images/63050/63050_ISO_0_ES.jpg
+
+Nombre: Puré de patatas Maggi caja 230 g
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/551/551_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales con chocolate con leche Gran Dia caja 150 g
+Precio: 1.75 EUR
+Imagen: https://www.dia.es/product_images/43947/43947_ISO_0_ES.jpg
+
+Nombre: Leche crecimiento con cereales +12 meses Nativa brik 1 l
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/40297/40297_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche y avellanas Kinder bolsa 43 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/37004/37004_ISO_0_ES.jpg
+
+Nombre: Jabón de manos líquido leche y miel Palmolive bote 300 ml
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/36810/36810_ISO_0_ES.jpg
+
+Nombre: Mini galletas digestive de chocolate con leche Gullón bolsa 160 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/291060/291060_ISO_0_ES.jpg
+
+Nombre: Leche de continuación Nativa brik 1 l
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/285022/285022_ISO_0_ES.jpg
+
+Nombre: Barritas de galleta y chocolate con leche Nestlé Extrafino pack 108 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/278911/278911_ISO_0_ES.jpg
+
+Nombre: Surtido de chocolatinas con leche Navidad Kinder caja 76 g
+Precio: 3.49 EUR
+Imagen: https://www.dia.es/product_images/277298/277298_ISO_0_ES.jpg
+
+Nombre: Palitos de galleta recubiertos de chocolate con leche Mikado estuche 75 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/2755/2755_ISO_0_ES.jpg
+
+Nombre: Gel de ducha reparador leche de coco Fruit Revolution Imaqe de Dia botella 750 ml
+Precio: 1.4 EUR
+Imagen: https://www.dia.es/product_images/273951/273951_ISO_0_ES.jpg
+
+Nombre: Figura de chocolate con leche santa Kit Kat bolsa 85 g
+Precio: 2.19 EUR
+Imagen: https://www.dia.es/product_images/267771/267771_ISO_0_ES.jpg
+
+Nombre: Turrón de chocolate con arroz inflado Suchard 2 x 230 g
+Precio: 6.99 EUR
+Imagen: https://www.dia.es/product_images/260098/260098_ISO_0_ES.jpg
+
+Nombre: Grageas de chocolate con leche patrulla canina Lacasitos bote 20 g
+Precio: 2.75 EUR
+Imagen: https://www.dia.es/product_images/243901/243901_ISO_0_ES.jpg
+
+Nombre: Galletas cubiertas de chocolate con leche Galleteca de Dia caja 150 g
+Precio: 1.4 EUR
+Imagen: https://www.dia.es/product_images/220175/220175_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche y avellanas Temptation de Dia bolsa 115 g
+Precio: 1.65 EUR
+Imagen: https://www.dia.es/product_images/205200/205200_ISO_0_ES.jpg
+
+Nombre: Crema de cacao y leche de avellanas dúo Nocilla bote 620 g
+Precio: 5.69 EUR
+Imagen: https://www.dia.es/product_images/19896/19896_ISO_0_ES.jpg
+
+Nombre: Gel de ducha leche y miel Palmolive NB botella 600 + 100 ml
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/198131/198131_ISO_0_ES.jpg
+
+Nombre: Mini barritas de chocolate con leche y avellanas Kinder bolsa 108 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/184718/184718_ISO_0_ES.jpg
+
+Nombre: Leche crecimiento con galleta maría +3 años Nestlé brik 1 l
+Precio: 2.35 EUR
+Imagen: https://www.dia.es/product_images/155416/155416_ISO_0_ES.jpg
+
+Nombre: Leche crecimiento original +12 meses Nativa brik 1 l
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/1479/1479_ISO_0_ES.jpg
+
+Nombre: Grageas de chocolate con leche Lacasitos bolsa 190 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/144409/144409_ISO_0_ES.jpg
+
+Nombre: Galletas con chocolate con leche Milka caja 150 g
+Precio: 2.69 EUR
+Imagen: https://www.dia.es/product_images/142433/142433_ISO_0_ES.jpg
+
+Nombre: Grageas de chocolate con leche M&M's bolsa 200 g
+Precio: 3.59 EUR
+Imagen: https://www.dia.es/product_images/136715/136715_ISO_0_ES.jpg
+
+Nombre: Bebida con cereales y cacao pack Puleva brik 3 x 200 ml
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/130227/130227_ISO_0_ES.jpg
+
+Nombre: Leche multifrutas Puleva brik 3 x 200 ml
+Precio: 1.95 EUR
+Imagen: https://www.dia.es/product_images/129428/129428_ISO_0_ES.jpg
+
+Nombre: Cacahuete recubierto de chocolate con leche M&M's bolsa 45 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/126410/126410_ISO_0_ES.jpg
+
+Nombre: Grageas de chocolate con leche Lacasitos bolsa 80 g
+Precio: 3.19 EUR
+Imagen: https://www.dia.es/product_images/123215/123215_ISO_0_ES.jpg
+
+Nombre: Cacahuete recubierto de chocolate con leche M&M's bolsa 200 g
+Precio: 3.59 EUR
+Imagen: https://www.dia.es/product_images/11951/11951_ISO_0_ES.jpg
+
+Nombre: Galletas de desayuno con cereales y chocolate Belvita caja 300 g
+Precio: 2.35 EUR
+Imagen: https://www.dia.es/product_images/113654/113654_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche y avellanas Kinder bolsa 3 x 43 g
+Precio: 3.29 EUR
+Imagen: https://www.dia.es/product_images/107473/107473_ISO_0_ES.jpg
+
+Nombre: Crema de cacao y leche de avellanas dúo Nocilla bote 180 g
+Precio: 2.59 EUR
+Imagen: https://www.dia.es/product_images/101750/101750_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales con chocolate con leche Corny caja 120 g
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/101526/101526_ISO_0_ES.jpg
+
+Nombre: Galletas rellenas de chocolate estrellas Principe caja 225 g
+Precio: 2.45 EUR
+Imagen: https://www.dia.es/product_images/100267/100267_ISO_0_ES.jpg
+
+Nombre: Bolitas de chocolate rellenas de leche malteada Maltesers bolsa 175 g
+Precio: 3.59 EUR
+Imagen: https://www.dia.es/product_images/70230/70230_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales plátano y chocolate con leche Gran Dia caja 150 g
+Precio: 1.75 EUR
+Imagen: https://www.dia.es/product_images/43949/43949_ISO_0_ES.jpg
+
+Nombre: Barquillos rellenos de crema con leche y cacao Knoppers bolsa 75 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/290515/290515_ISO_0_ES.jpg
+
+Nombre: Figura de chocolate con leche reyes magos Nestlé 40 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/287854/287854_ISO_0_ES.jpg
+
+Nombre: Leche semidesnatada fibra Central Lechera Asturiana brik 1 l
+Precio: 1.45 EUR
+Imagen: https://www.dia.es/product_images/27987/27987_ISO_0_ES.jpg
+
+Nombre: Gel de ducha nutritivo con proteínas de leche Imaqe de Dia botella 1.5 l
+Precio: 2.25 EUR
+Imagen: https://www.dia.es/product_images/273850/273850_ISO_0_ES.jpg
+
+Nombre: Leche entera calcio Puleva pack 6 x 1 l
+Precio: 9.48 EUR
+Imagen: https://www.dia.es/product_images/27258P6/27258P6_ISO_0_ES.jpg
+
+Nombre: Leche entera calcio Puleva brik 1 l
+Precio: 1.58 EUR
+Imagen: https://www.dia.es/product_images/27258/27258_ISO_0_ES.jpg
+
+Nombre: Crema de cacao y leche de avellanas dúo 0% azúcares añadidos Nocilla bote 180 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/268342/268342_ISO_0_ES.jpg
+
+Nombre: Barritas de cereales integrales con chocolate con leche Kellogg's Special K caja 120 g
+Precio: 3.7 EUR
+Imagen: https://www.dia.es/product_images/243212/243212_ISO_0_ES.jpg
+
+Nombre: Gel de ducha hidratante oliva verde Palmolive NB botella 600 + 100 ml
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/197476/197476_ISO_0_ES.jpg
+
+Nombre: Gel de ducha nutritiva almendra y leche Palmolive NB botella 600 + 100 ml
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/153332/153332_ISO_0_ES.jpg
+
+Nombre: Leche desnatada calcio Pascual Movit brik 6 x 1 l
+Precio: 10.56 EUR
+Imagen: https://www.dia.es/product_images/104006P6/104006P6_ISO_0_ES.jpg
+
+Nombre: Leche desnatada calcio Pascual Movit brik 1 l
+Precio: 1.76 EUR
+Imagen: https://www.dia.es/product_images/104006/104006_ISO_0_ES.jpg
+
+Nombre: Barritas de barquillo recubierta de chocolate con leche Huesitos bolsa 200 g
+Precio: 2.45 EUR
+Imagen: https://www.dia.es/product_images/91974/91974_ISO_0_ES.jpg
+
+Nombre: Turrón con dulce de leche Dulce Noel Dia caja 150 g
+Precio: 2.5 EUR
+Imagen: https://www.dia.es/product_images/273480/273480_ISO_0_ES.jpg
+
+Nombre: Barritas de barquillo recubierta de chocolate con leche Huesitos bolsa 120 g
+Precio: 1.7 EUR
+Imagen: https://www.dia.es/product_images/159579/159579_ISO_0_ES.jpg
+
+Nombre: Barritas de galleta recubiertas de chocolate con leche Kit Kat bolsa 41.5 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/156688/156688_ISO_0_ES.jpg
+
+Nombre: Tortitas de arroz con chocolate con leche Bicentury bolsa 130 g
+Precio: 2.79 EUR
+Imagen: https://www.dia.es/product_images/234226/234226_ISO_0_ES.jpg
+
+Nombre: Leche fermentada natural Nestlé Yogolino bolsa 100 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/282337/282337_ISO_0_ES.jpg
+
+Nombre: Leche fermentada con puré de manzana y fresa Nestlé Yogolino bolsa 100 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/208914/208914_ISO_0_ES.jpg
+
+Nombre: Leche fermentada con puré de plátano Nestlé Yogolino bolsa 100 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/208913/208913_ISO_0_ES.jpg
+
+Nombre: Leche solar protege & hidrata spf 30 Nivea bote 200 ml
+Precio: 12.99 EUR
+Imagen: https://www.dia.es/product_images/161727/161727_ISO_0_ES.jpg
+
+Nombre: Leche corporal nutritiva piel normal-seca Lactovit bote 400 ml
+Precio: 4.99 EUR
+Imagen: https://www.dia.es/product_images/152306/152306_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche bubbly Milka 90 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/55979/55979_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche milkinis Milka bolsa 87.5 g
+Precio: 1.4 EUR
+Imagen: https://www.dia.es/product_images/49474/49474_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y macadamia caramelizada Valor 200 g
+Precio: 4.75 EUR
+Imagen: https://www.dia.es/product_images/304813/304813_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con pistachos Lacasa 90 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/303696/303696_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con relleno cremoso y galletas María Nestlé Extrafino 83 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/302624/302624_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche sin lactosa Trapa 90 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/302050/302050_ISO_0_ES.jpg
+
+Nombre: Bebida de leche y zumo de frutas tropical Don Simón brik 3+1 x 330 ml
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/301854/301854_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con galleta Temptation de Dia 100 g
+Precio: 1.15 EUR
+Imagen: https://www.dia.es/product_images/300974/300974_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con relleno cremoso Nestlé Extrafino 100 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/300936/300936_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Lindt 100 g
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/300151/300151_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche Temptation de Dia 100 g
+Precio: 0.99 EUR
+Imagen: https://www.dia.es/product_images/300067/300067_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche crujiente Temptation de Dia 75 g
+Precio: 0.85 EUR
+Imagen: https://www.dia.es/product_images/300057/300057_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche y almendras 0% azúcares añadidos Trapa 100 g
+Precio: 1.75 EUR
+Imagen: https://www.dia.es/product_images/299365/299365_ISO_0_ES.jpg
+
+Nombre: Arroz con leche con canela Caprichoso Dia pack 2 x 125 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/298435/298435_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche para repostería Dr. Oetker bolsa 150 g
+Precio: 3.59 EUR
+Imagen: https://www.dia.es/product_images/298091/298091_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con relleno sabor dulce de leche Nestlé Extrafino  83 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/297961/297961_ISO_0_ES.jpg
+
+Nombre: Galletas choco leche Artiach Dinosaurus caja 255 g
+Precio: 3.55 EUR
+Imagen: https://www.dia.es/product_images/296119/296119_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con relleno cremoso y trocitos de galleta Dinosaurus Nestlé 84 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/295387/295387_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con relleno cremoso y trocitos de galleta Tosta Rica Nestlé Extrafino 84 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/295386/295386_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche con trozos de oreo Milka 3 x 100 g
+Precio: 3.9 EUR
+Imagen: https://www.dia.es/product_images/274382/274382_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno strawberry cheesecake Milka MMMAX 300 g
+Precio: 3.95 EUR
+Imagen: https://www.dia.es/product_images/267908/267908_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche relleno de brownie oreo Milka 100 g
+Precio: 1.55 EUR
+Imagen: https://www.dia.es/product_images/256290/256290_ISO_0_ES.jpg
+
+Nombre: Chocolate con leche para postres Nestlé 170 g
+Precio: 3.39 EUR
+Imagen: https://www.dia.es/product_images/178025/178025_ISO_0_ES.jpg
+
+Nombre: Mantequilla tradicional Central Lechera Asturiana tarrina 250 g
+Precio: 3.55 EUR
+Imagen: https://www.dia.es/product_images/53766/53766_ISO_0_ES.jpg
+
+Nombre: Bollitos rellenos de leche Phoskitos caja 160 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/43712/43712_ISO_0_ES.jpg
+
+Nombre: Piruleta chocolate con leche 10 unidades Crest bolsa 150 g
+Precio: 3.19 EUR
+Imagen: https://www.dia.es/product_images/35613/35613_ISO_0_ES.jpg
+
+Nombre: Mini galletas choco leche Artiach Dinosaurus bolsa 120 g
+Precio: 1.89 EUR
+Imagen: https://www.dia.es/product_images/304650/304650_ISO_0_ES.jpg
+
+Nombre: Bizcocho relleno con leche tender Milka caja 185 g
+Precio: 3.15 EUR
+Imagen: https://www.dia.es/product_images/238374/238374_ISO_0_ES.jpg
+
+Nombre: Bizcochitos rellenos de leche y chocolate Cuétara Tostarica caja 160 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/226662/226662_ISO_0_ES.jpg
+
+Nombre: Nata para cocinar Central Lechera Asturiana brik 500 ml
+Precio: 2.75 EUR
+Imagen: https://www.dia.es/product_images/56937/56937_ISO_0_ES.jpg
+
+Nombre: Nata montada azucarada Central Lechera Asturiana spray 250 g
+Precio: 2.75 EUR
+Imagen: https://www.dia.es/product_images/5691/5691_ISO_0_ES.jpg
+
+Nombre: Nata para montar Central Lechera Asturiana brik 500 ml
+Precio: 2.75 EUR
+Imagen: https://www.dia.es/product_images/53765/53765_ISO_0_ES.jpg
+
+Nombre: Bombones de chocolate con leche Lindt caja 37 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/304176/304176_ISO_0_ES.jpg
+
+Nombre: Bombones de chocolate con leche caja dorada Suchard caja 127 g
+Precio: 4.99 EUR
+Imagen: https://www.dia.es/product_images/303973/303973_ISO_0_ES.jpg
+
+Nombre: Láminas de chocolate con leche y naranja Temptation de Dia caja 100 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/302661/302661_ISO_0_ES.jpg
+
+Nombre: Figuritas de chocolate con leche y galleta Nestlé Jungly bolsa 124 g
+Precio: 3.49 EUR
+Imagen: https://www.dia.es/product_images/298735/298735_ISO_0_ES.jpg
+
+Nombre: Stick de chocolate con leche Lindt Lindor 37 g
+Precio: 1.29 EUR
+Imagen: https://www.dia.es/product_images/297932/297932_ISO_0_ES.jpg
+
+Nombre: Turrón de chocolate con leche y galleta Nestlé Dinosaurus bolsa 230 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/295526/295526_ISO_0_ES.jpg
+
+Nombre: Figura de chocolate con leche Papá Noel Milka 45 g
+Precio: 1.49 EUR
+Imagen: https://www.dia.es/product_images/288993/288993_ISO_0_ES.jpg
+
+Nombre: Nuez con chocolate con leche Naturmundo de Dia bolsa 150 g
+Precio: 2.39 EUR
+Imagen: https://www.dia.es/product_images/286028/286028_ISO_0_ES.jpg
+
+Nombre: Turrón de chocolate con leche Nestlé Jungly 232 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/277572/277572_ISO_0_ES.jpg
+
+Nombre: Barrita de chocolate con leche, cacahuete y caramelo nutrageous Reese's bolsa 47 g
+Precio: 1.6 EUR
+Imagen: https://www.dia.es/product_images/273107/273107_ISO_0_ES.jpg
+
+Nombre: Turrón de chocolate con leche con almendras Dulce Noel Dia caja 175 g
+Precio: 2.5 EUR
+Imagen: https://www.dia.es/product_images/265839/265839_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche Kinder caja 150 g
+Precio: 2.49 EUR
+Imagen: https://www.dia.es/product_images/253602/253602_ISO_0_ES.jpg
+
+Nombre: Figura de chocolate con leche Papá Noel Kinder 75 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/227028/227028_ISO_0_ES.jpg
+
+Nombre: Barritas de chocolate con leche con chocochips Bicentury caja 128 g
+Precio: 4.99 EUR
+Imagen: https://www.dia.es/product_images/153635/153635_ISO_0_ES.jpg
+
+Nombre: Nata para montar Central Lechera Asturiana brik 1 l
+Precio: 4.75 EUR
+Imagen: https://www.dia.es/product_images/145492/145492_ISO_0_ES.jpg
+
+Nombre: Crema de cacao y leche de avellanas dúo Nocilla bote 360 g
+Precio: 3.65 EUR
+Imagen: https://www.dia.es/product_images/101748/101748_ISO_0_ES.jpg
+
+Nombre: Bombones rellenos de dulce de leche 1880 caja 100 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/303156/303156_ISO_0_ES.jpg
+
+Nombre: Turrón crujiente de chocolate con leche Dulce Noel Dia bolsa 140 g
+Precio: 1.29 EUR
+Imagen: https://www.dia.es/product_images/296017/296017_ISO_0_ES.jpg
+
+Nombre: Anacardos recubiertos con chocolate con leche Naturmundo de Dia bolsa 150 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/294819/294819_ISO_0_ES.jpg
+
+Nombre: Pistachos recubiertos de chocolate con leche Naturmundo de Dia bolsa 150 g
+Precio: 3.45 EUR
+Imagen: https://www.dia.es/product_images/294818/294818_ISO_0_ES.jpg
+
+Nombre: Mini barritas de chocolate con leche Nickelodeon caja 100 g (modelos diferentes)
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/277522/277522_ISO_0_ES.jpg
+
+Nombre: Mantequilla tradicional en rulo Central Lechera Asturiana 500 g
+Precio: 6.15 EUR
+Imagen: https://www.dia.es/product_images/271001/271001_ISO_0_ES.jpg
+
+Nombre: Mantequilla ligera sin lactosa Central Lechera Asturiana tarrina 250 g
+Precio: 3.65 EUR
+Imagen: https://www.dia.es/product_images/216865/216865_ISO_0_ES.jpg
+
+Nombre: Mantequilla tradicional con sal Central Lechera Asturiana tarrina 250 g
+Precio: 3.55 EUR
+Imagen: https://www.dia.es/product_images/180474/180474_ISO_0_ES.jpg
+
+Nombre: Jabón de manos almendra y leche Palmolive 3 x 90 g
+Precio: 2.29 EUR
+Imagen: https://www.dia.es/product_images/180212/180212_ISO_0_ES.jpg
+
+Nombre: Bolitas de chocolate rellenas de leche malteada Maltesers bolsa 37 g
+Precio: 1.39 EUR
+Imagen: https://www.dia.es/product_images/144579/144579_ISO_0_ES.jpg
+
+Nombre: Galletas duo recubiertas de chocolate con leche Sonic Galleteca de Dia caja 252 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/304711/304711_ISO_0_ES.jpg
+
+Nombre: Flaminguitos rosas rellenos de crema con leche Dulcesol bolsa 150 g
+Precio: 1 EUR
+Imagen: https://www.dia.es/product_images/303756/303756_ISO_0_ES.jpg
+
+Nombre: Mini galletas rellenas con crema de leche Nocilla bolsa 64 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/271633/271633_ISO_0_ES.jpg
+
+Nombre: Galletas con pepitas de chocolate con leche Milka bolsa 110 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/267607/267607_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate blanco relleno de leche y avellanas Kinder bolsa 200 g
+Precio: 4.39 EUR
+Imagen: https://www.dia.es/product_images/249826/249826_ISO_0_ES.jpg
+
+Nombre: Tortitas de arroz con chocolate con leche y avellanas Bicentury bolsa 142 g
+Precio: 2.95 EUR
+Imagen: https://www.dia.es/product_images/244936/244936_ISO_0_ES.jpg
+
+Nombre: Mantequilla ligera fácil de untar Central Lechera Asturiana tarrina 250 g
+Precio: 3.65 EUR
+Imagen: https://www.dia.es/product_images/187554/187554_ISO_0_ES.jpg
+
+Nombre: Papilla líquida 8 cereales con galleta y leche continuación Nestlé brik 2 x 250 ml
+Precio: 2.59 EUR
+Imagen: https://www.dia.es/product_images/83913/83913_ISO_0_ES.jpg
+
+Nombre: Barritas de barquillo recubierta de chocolate con leche combix Huesitos bolsa 100 g
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/304814/304814_ISO_0_ES.jpg
+
+Nombre: Mini huevos de chocolate rellenos de crema leche y avellana Temptation de Dia bolsa 150 g
+Precio: 2.5 EUR
+Imagen: https://www.dia.es/product_images/291612/291612_ISO_0_ES.jpg
+
+Nombre: Yogur con fresas y grageas de chocolate con leche Nestlé pack 2 x 128 g
+Precio: 1.99 EUR
+Imagen: https://www.dia.es/product_images/132719/132719_ISO_0_ES.jpg
+
+Nombre: Huevo de chocolate con sorpresa joy Kinder 20 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/8192/8192_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate con sorpresa 3 unidades Kinder caja 60 g
+Precio: 3.49 EUR
+Imagen: https://www.dia.es/product_images/76578/76578_ISO_0_ES.jpg
+
+Nombre: Bombones Ferrero Rocher bolsa 35 g
+Precio: 1.5 EUR
+Imagen: https://www.dia.es/product_images/55648/55648_ISO_0_ES.jpg
+
+Nombre: Bombones surtidos Nestlé Caja Roja caja 103 g
+Precio: 3.39 EUR
+Imagen: https://www.dia.es/product_images/48912/48912_ISO_0_ES.jpg
+
+Nombre: Huevo de chocolate con sorpresa Kinder 20 g
+Precio: 1.3 EUR
+Imagen: https://www.dia.es/product_images/37008/37008_ISO_0_ES.jpg
+
+Nombre: Bombones Ferrero Rocher caja 375 g
+Precio: 10.59 EUR
+Imagen: https://www.dia.es/product_images/36341/36341_ISO_0_ES.jpg
+
+Nombre: Huevo de chocolate con sorpresa Temptation de Dia caja 60 g
+Precio: 1.79 EUR
+Imagen: https://www.dia.es/product_images/33080/33080_ISO_0_ES.jpg
+
+Nombre: Mini barritas de galleta recubiertas de chocolate Kit Kat bolsa 200 g
+Precio: 2.99 EUR
+Imagen: https://www.dia.es/product_images/30432/30432_ISO_0_ES.jpg
+
+Nombre: Barritas de galleta recubiertas de chocolate Kit Kat bolsa 3 x 41.5 g
+Precio: 2.55 EUR
+Imagen: https://www.dia.es/product_images/26137/26137_ISO_0_ES.jpg
+
+Nombre: Bombones surtidos Nestlé Caja Roja caja 198 g
+Precio: 6.35 EUR
+Imagen: https://www.dia.es/product_images/24020/24020_ISO_0_ES.jpg
+
+Nombre: Wafer de chocolate sin gluten Proceli bolsa 100 g
+Precio: 3.65 EUR
+Imagen: https://www.dia.es/product_images/175187/175187_ISO_0_ES.jpg
+
+Nombre: Bombones frutos del mar Temptation de Dia caja 250 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/137505/137505_ISO_0_ES.jpg
+
+Nombre: Bombones Ferrero Rocher caja 200 g
+Precio: 6.49 EUR
+Imagen: https://www.dia.es/product_images/13321/13321_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate con sorpresa Kinder estuche 126 g
+Precio: 6.69 EUR
+Imagen: https://www.dia.es/product_images/124636/124636_ISO_0_ES.jpg
+
+Nombre: Huevos de chocolate con sorpresa Kinder blister 3 x 20 g
+Precio: 3.99 EUR
+Imagen: https://www.dia.es/product_images/110798/110798_ISO_0_ES.jpg
+
