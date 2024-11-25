@@ -1,0 +1,100 @@
+Nombre: Leche Semidesnatada. Brik 1 L
+Precio: 0.0083 EUR
+Precio por unidad: 0.0083 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7080604_001.jpg?t=20220406040006
+
+Nombre: Leche Entera. Brik 1 L
+Precio: 0.0092 EUR
+Precio por unidad: 0.0092 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7080596_001.jpg?t=20220406040006
+
+Nombre: Leche Semidesnatada Brik 1 L
+Precio: 0.0111 EUR
+Precio por unidad: 0.0111 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/735399_001.jpg?t=20240520130002
+
+Nombre: Leche sin Lactosa Semidesnatada Brik 1 L
+Precio: 0.011699999999999999 EUR
+Precio por unidad: 0.011699999999999999 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7181720_001.jpg?t=20240725130001
+
+Nombre: Leche Desnatada. Brik 1 L
+Precio: 0.0079 EUR
+Precio por unidad: 0.0079 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7080612_001.jpg?t=20220406040006
+
+Nombre: Leche Semidesnatada Brik 1 L
+Precio: 0.0109 EUR
+Precio por unidad: 0.0109 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/176974_001.jpg?t=20240106040001
+
+Nombre: Leche Semidesnatada Brik 1,5 L
+Precio: 0.0158 EUR
+Precio por unidad: 0.0105 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7411648_001.jpg?t=20221208040001
+
+Nombre: Leche Semi sin Lactosa Minibrick Pack de 3 3 x 200 ml
+Precio: 0.0138 EUR
+Precio por unidad: 0.023 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7405103_001.jpg?t=20220817040001
+
+Nombre: Leche Semidesnatada Brik 1 L
+Precio: 0.013300000000000001 EUR
+Precio por unidad: 0.013300000000000001 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/12542_001.jpg?t=20230818040001
+
+Nombre: Leche Calcio Semidesnatada Brik 1 L
+Precio: 0.0159 EUR
+Precio por unidad: 0.0159 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/584482_001.jpg?t=20240823091501
+
+Nombre: Leche Calcio. Semidesnatada Brik 1 L
+Precio: 0.0098 EUR
+Precio por unidad: 0.0098 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7046597_001.jpg?t=20230823040001
+
+Nombre: Leche Entera Brik 1 L
+Precio: 0.0109 EUR
+Precio por unidad: 0.0109 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/157388_001.jpg?t=20240106040001
+
+Nombre: Leche Entera Brik 1 L
+Precio: 0.0116 EUR
+Precio por unidad: 0.0116 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/735423_001.jpg?t=20240520130002
+
+Nombre: Leche Calcio Entera Brik 1 L
+Precio: 0.011200000000000002 EUR
+Precio por unidad: 0.011200000000000002 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7046592_001.jpg?t=20230823040001
+
+Nombre: Leche Entera Brik 1,5 L
+Precio: 0.0158 EUR
+Precio por unidad: 0.0105 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7411643_001.jpg?t=20221208040001
+
+Nombre: Leche Calcio Entera Brik 1 L
+Precio: 0.0159 EUR
+Precio por unidad: 0.0159 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/303370_001.jpg?t=20240823091501
+
+Nombre: Leche sin Lactosa Entera Brik 1 L
+Precio: 0.0121 EUR
+Precio por unidad: 0.0121 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7309842_001.jpg?t=20240725130001
+
+Nombre: Leche Entera Brik 1 L
+Precio: 0.013300000000000001 EUR
+Precio por unidad: 0.013300000000000001 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/12559_001.jpg?t=20230421114832
+
+Nombre: Leche Calcio Desnatada Brik 1 L
+Precio: 0.0159 EUR
+Precio por unidad: 0.0159 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/289512_001.jpg?t=20240823091501
+
+Nombre: Leche Continuación Brik Peques 2 1 L
+Precio: 0.0195 EUR
+Precio por unidad: 0.0195 €/ 1 L
+Imagen: https://cdn-consum.aktiosdigitalservices.com/tol/consum/media/product/img/300x300/7051600_001.jpg?t=20231117040001
+

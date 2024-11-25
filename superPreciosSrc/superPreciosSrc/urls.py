@@ -16,7 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from superPreciosApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # importar todas las vistas de la aplicación superPreciosApp
+    path('', views.inicio, name='inicio'),
+    path('producto', views.producto, name='producto'),
 ]

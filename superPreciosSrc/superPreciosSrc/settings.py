@@ -27,6 +27,11 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/5.1/howto/static-files/
+
+STATIC_URL = '/styles/'
+
 
 # Application definition
 
@@ -37,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'superPreciosApp',
 ]
 
 MIDDLEWARE = [
@@ -115,7 +121,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/styles/'
+STATICFILES_DIRS = [BASE_DIR / "styles"]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field

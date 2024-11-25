@@ -1,0 +1,64 @@
+Nombre: Pancakes
+Precio: 2.29 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-04/gran-tematica/5629/0/0/_jcr_content/assets/imported-images/BILD_INTERNET1/d455231550c6a067d972fc680e97.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panettone con pepitas de chocolate
+Precio: 4.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-06/promocion/1820/0/0/_jcr_content/assets/imported-images/BILD_INTERNET3/85eb4d6daa0127a68aedd98ff4d8.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Bretzel
+Precio: 0.85 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-06/frescos/5239/0/0/_jcr_content/assets/imported-images/BILD_INTERNET1/3faff65b65cf78feef69e5ee1f5f.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Pilas alcalinas
+Precio: 7.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-09/iluminacion/6000031/0/0/_jcr_content/assets/imported-images/BILD_INTERNET3/0b70c5c330b5be63035001daa17e.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panettone con pasas y naranja confitada
+Precio: 9.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/9469/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/cbefd01ce5bbed7ae639dc16169e.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panettone clásico
+Precio: 5.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/6014055/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/599ea2c6690fc7466f2cc78cb9e7.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Puzle panorama
+Precio: 5.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-12/2024-12-04/juguetes/6012480/0/0/_jcr_content/assets/imported-images/BILD_INTERNET12/8cda8d515054784d9a8b222ab7e4.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panel de escalada
+Precio: 29.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-20/juguetes/6010936/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/5d67faa9285e9a2d0828ca62d94a.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Cintas de baile / Pañuelo / Banderines/ Corona
+Precio: 7.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-13/juguetes/6010564/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/4ca3e5fced4969b5a1f9aa943f0d.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Pantuflas
+Precio: 4.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-12/2024-12-04/juguetes/6009809/0/0/_jcr_content/assets/imported-images/BILD_INTERNET1/142c699f66967211d9e8646f5c05.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panna cotta cacao y avellanas
+Precio: 1.59 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/6008638/3/0/_jcr_content/assets/imported-images/BILD_INTERNET1/35d496114c0912287d9b6e7b00b7.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panna cotta Café
+Precio: 1.59 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/6008638/2/0/_jcr_content/assets/imported-images/BILD_INTERNET1/e84d1d12c161b1473d15c60d1e95.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Pannacotta natural
+Precio: 1.59 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/6008638/1/0/_jcr_content/assets/imported-images/BILD_INTERNET2/3788d538d7e79ca4098e2f22c365.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panettone con chocolate
+Precio: 9.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2030/2030-01/2030-01-01/sf/6004623/0/0/_jcr_content/assets/imported-images/BILD_INTERNET3/da32f2cd0edb444fb45b877d36a3.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panel sensorial
+Precio: 29.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-06/juguetes/6003273/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/5495fab4bce5f03355e1ac771123.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
+Nombre: Panel de luz LED A3
+Precio: 24.99 EUR
+Imagen: https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2024/2024-11/2024-11-20/juguetes/6001532/0/0/_jcr_content/assets/imported-images/BILD_INTERNET2/efbf32f1e1337b46e9266a9fc62d.png/_jcr_content/renditions/opt.592w.png.res/0/opt.592w.png
+
